@@ -8,7 +8,12 @@ intrested in learning three.js and Blender
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:amin.dehgan5656@gmail.com) 
 [![Amin Dehghani](https://img.shields.io/badge/personal%20blog-f0f0f0?&style=for-the-badge&logoColor=white&color=1a1d24)](https://amindehghani.com)
 
+<br/>
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+|                                                                                                           |                                                                                      |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| ![Saeed Raeisi's stats](https://github-readme-stats.vercel.app/api?username=saeed-raeisi&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=saeed-raeisi&theme=material-palenight)](https://github.com/saeed-raeisi) |
 
 <h3 align="left">Languages and Tools:</h3>
 
