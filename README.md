@@ -13,7 +13,7 @@ intrested in learning three.js and Blender
 
 |                                                                                                           |                                                                                      |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| ![Saeed Raeisi's stats](https://github-readme-stats.vercel.app/api?username=saeed-raeisi&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=saeed-raeisi&theme=material-palenight)](https://github.com/saeed-raeisi) |
+| ![Amin Dehghani's stats](https://github-readme-stats.vercel.app/api?username=amindehghani&count_private=true&show_icons=true&theme=material-palenight) | [![](https://github-readme-streak-stats.herokuapp.com/?user=amindehghani&theme=material-palenight)](https://github.com/amindehghani) |
 
 <h3 align="left">Languages and Tools:</h3>
 
