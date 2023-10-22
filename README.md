@@ -6,7 +6,7 @@ intrested in learning three.js and Blender
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/amin-dehghani/)
 [![GMail](https://img.shields.io/badge/gmail-f0f0f0?&style=for-the-badge&logo=gmail&logoColor=white&color=ea4335)](mailto:amin.dehgan5656@gmail.com) 
-[![Amin Dehghani](https://img.shields.io/badge/personal%20blog-f0f0f0?&style=for-the-badge&logoColor=white&color=1a1d24)](https://aDehghani.ir)
+[![Amin Dehghani](https://img.shields.io/badge/personal%20blog-f0f0f0?&style=for-the-badge&logoColor=white&color=1a1d24)](https://amindehghani.com)
 
 
 
